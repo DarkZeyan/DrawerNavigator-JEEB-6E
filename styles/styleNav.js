@@ -27,7 +27,7 @@ const styleNavigation  = StyleSheet.create(
         cinnamapContainer:{
             flex:1,
             justifyContent:'center',
-            backgroundColor:'#9effb8',
+            backgroundColor:'#62d982',
             paddingTop:20,
             paddingHorizontal:10
         },
